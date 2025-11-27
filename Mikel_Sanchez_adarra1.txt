@@ -1,2 +1,4 @@
-Hau da lehenengo fitxategiaren edukia.
-Min adarrean gehitutako lerroa.
+Lerro berria 1
+Lerro berria 2
+Lerro berria 3
+
